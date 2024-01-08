@@ -341,7 +341,7 @@ section {
  article {
     display: flex;
     width: 10rem;
-    justify-content: space-around;
+    /* justify-content: space-around; */
     gap: 0.5rem;
  }
 
@@ -363,7 +363,9 @@ section {
  .project-img {
     border-radius: 2rem;
     width: 90%;
-    height: 90%;
+    height: 300px;
+    /* height: 300px;
+    width: 300px; */
  }
 
  .project-title {
