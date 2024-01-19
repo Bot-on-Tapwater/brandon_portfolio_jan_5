@@ -100,3 +100,9 @@
         text-align: justify;
     }
 }
+
+/* @media screen and (min-width: 1200px) and (max-width: 1630px) {
+    #projects {
+        position: relative;
+    }
+} */
