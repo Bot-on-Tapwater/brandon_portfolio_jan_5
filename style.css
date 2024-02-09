@@ -175,6 +175,10 @@ section {
     margin: auto 0;
 }
 
+.main-image {
+    display: none;
+}
+
 .section__text {
     align-self: center;
     text-align: center;
@@ -282,6 +286,7 @@ section {
 
  .about-pic {
     border-radius: 2rem;
+    display: none;
  }
 
  .arrow {
@@ -383,6 +388,15 @@ section {
  }
 
  .project-img {
+    display: none;
+    border-radius: 2rem;
+    /* width: 200px;
+    height: 200px; */
+    width: 60%;
+    height: 60%;
+ }
+
+ .article-container .placeholder {
     border-radius: 2rem;
     /* width: 200px;
     height: 200px; */
